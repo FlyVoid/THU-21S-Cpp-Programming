@@ -1,2 +1,2 @@
 # THU-C-Programming
-C++小学期，WYP， 2021Summer
+The source codes of C++ Programming course assignments of Tsinghua Univerisity, which includes five algorithm problems.
